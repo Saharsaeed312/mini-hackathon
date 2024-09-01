@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "space grotesk", sans-serif;
+}
+
+img {
+    margin-left: 9rem;
+}
+
+nav {
+    margin-top: 3rem;
+}
+
+.navbar-nav {
+    margin-right: 40rem;
+}
+
+.container {
+    margin-top: 3.5rem;
+    margin-left: 9rem;
+}
+
+.container h1 {
+    font-size: 4rem;
+}
+
+.container p {
+    font-size: 1.5rem;
+}
+
+.container button {
+    color: white;
+    background-color: black;
+    padding: 1.5rem;
+    padding-left: 4rem;
+    padding-right: 4rem;
+    border-radius: 2rem;
+    margin-right: 2rem;
+}
+
+.container img {
+    margin-top: 1.5rem;
+    margin-right: -6rem;
+}
+
+.container2 button {
+    color: white;
+    background-color: #B9FF66;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    margin-left: 10rem;
+    border: none;
+    margin-top: 15rem;
+    border-radius: 1rem;
+    font-size: 1.5rem;
+}
+
+.container2 p {
+    margin-top: 15rem;
+    margin-left: -36rem;
+    font-size: 1.5rem;
+}
+
+.card {
+    border-radius: 2rem;
+}
+
+.card img {
+    width: 10rem;
+    margin-left: 25rem;
+}
+
+.card h5 {
+    margin-top: 3rem;
+    font-size: 2rem;
+    margin-left: 4rem;
+}
+.card .Icon{
+    width: 3rem;
+    margin-left: -0.1rem;
+}
+.card2{
+    margin-left: 50rem;
+    margin-top: -25rem;
+}
+.card2 img{
+    width: 10rem;
+    margin-left: 25rem;
+}
